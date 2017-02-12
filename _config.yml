@@ -1,0 +1,8 @@
+title: Falling Snows' blog
+description: "A simple tracking blog for my IT career, with some maths projects. "
+google_analytics: FS
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
